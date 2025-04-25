@@ -4,19 +4,19 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Tracy Atteberry
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+description-meta: 'Resume for Tracy Atteberry'
 keywords:
   - 'ruby'
   - 'ai'
   - 'developer'
 author:
 - Tracy Atteberry
-subject: 'Subject'
+subject: 'Resume'
 ---
-###### [[tracyatteberry.com](https://tracyatteberry.com)] . [[linkedin.com/in/tracyatteberry](https:://linkedin.com/in/tracyatteberry/)] . [ tracy@tracyatteberry.com] . [ 312 399 6978 ]
+###### [[tracyatteberry.com](https://tracyatteberry.com)] . [ tracy@tracyatteberry.com] . [ 312 399 6978 ]
 
 I'm a polyglot that enjoys solving problems with software. I enjoy working, learning, and
-teaching on a collaborative team. I have a passion for creating quality, extendable code and
+teaching on a collaborative team. I have a passion for creating quality, extensible code and
 having a positive impact on my team, my company, and those around me. Let’s face it, having
 a positive impact is fun. Most recently I enjoyed building AI features, from ideas to
 implementation to delivery and support, into a best-in-class learning platform to generate
@@ -71,16 +71,15 @@ See more at [[LinkedIn.com/in/tracyatteberry](https:://linkedin.com/in/tracyatte
 July 2020 - September 2024, Chicago, IL and remote
 
 As a full-stack developer at BenchPrep, I helped deliver a high-quality SaaS
-platform serving the education market using Ruby on Rails, Vue, Docker, and
-PostgreSQL. In my role as team lead, I led the transition to container-based
-development and helped chart a path to CI/CD. I worked daily with test
-engineering, product management, and customer support to clarify requirements,
-design and implement timely solutions, and maintain existing systems. 
-I integrated AI features into the BenchPrep platform and crafted code to
-generate question content and suggest categories for clients. In addition to
-being a team lead, I also enjoyed leading a Refactoring SIG and giving frequent
-technical talks to Engineering and other groups to help advance our skills and
-knowledge as a company.
+platform serving the education market. In my role as team lead, I led the
+transition to container-based development and helped chart a path to CI/CD. I
+worked daily with test engineering, product management, and customer support to
+clarify requirements, design and implement timely solutions, and maintain
+existing systems. I integrated AI features into the BenchPrep platform and
+crafted code to generate question content and suggest categories for clients.
+In addition to being a team lead, I also enjoyed leading a Refactoring SIG and
+giving frequent technical talks to Engineering and other groups to help advance
+our skills and knowledge as a company.
 
 **Technologies used:** Ruby on Rails, Vue, Python, Docker, OpenAI, PostgreSQL, Redis, Rspec, Git
 
@@ -112,7 +111,7 @@ years I worked on very large scale cloud-based knowledge management software.
 
 **[*Substack newsletter*](https://aiassistedproductivity.substack.com/)** (2024-present)
 
-- Authored a series of articles for newsletter covering AI assisted software development.
+- Authored a series of articles for a newsletter covering AI assisted software development.
 
 ## Education
 
