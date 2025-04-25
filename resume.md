@@ -82,6 +82,7 @@ giving frequent technical talks to Engineering and other groups to help advance
 our skills and knowledge as a company.
 
 **Technologies used:** Ruby on Rails, Vue, Python, Docker, OpenAI, PostgreSQL, Redis, Rspec, Git
+<p/>
 
 ### Senior Software Engineer, Groupon
 
@@ -89,7 +90,9 @@ October 2017 - July 2020, Chicago, IL
 
 I delivered high quality code as part of a cross-functional team that enabled
 data-driven decisions at Groupon through building tools that run and analyze
-A/B experimentation.
+A/B experimentation. I worked with data scientists, product managers, multiple
+departments, and created written and video traning marterial to help other
+departemnts understand and use the A/B experimentation tools we built.
 
 **Technologies used:** Ruby on Rails, Python, PostgreSQL, AWS, Rspec, Git
 
@@ -97,13 +100,20 @@ A/B experimentation.
 
 March 2007 – October 2017
 
-I worked on a document conversion team to design and create a new in-browser
-viewing solution. I worked on a pdf export solution, including an new font
-creation and subsetting subsetting system for embedded fonts. For the last two
-years I worked on very large scale cloud-based knowledge management software.
+On a document conversion team to I helped design and create a new in-browser
+viewing solution from scratch. We made it possible to view hundreds of
+different file formats natively in the browser. For the last two years I worked
+on very large scale cloud-based knowledge management software.
 
 **Technologies used:** C/C++, Java, REST, Agile, Oracle DB
 
+### Inso/Stellent – Principal Software Engineer
+
+May 1999 – February 2007
+
+On the document conversion pipeline team I designed and implemented a PDF
+Export product, a font handling subsystem with OTF parse/subset/write library,
+an emulation layer, and native 3D format support.
 
 ## Projects & Achievements
 
