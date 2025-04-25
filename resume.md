@@ -43,33 +43,6 @@ question content and categories for our customers.
 **Databases**: Postgres, Redis, MySQL, Sqlite
 **Other**: Agile, Docker, Rspec, Git, Vim, Aider, Jira
 
-## Endorsements
-
-> “Tracy is one of the very best software engineers I have had the pleasure to work with. ... He
-> possesses exceptional technical expertise with fantastic communication, mentoring, and
-> coaching skills to boot… I wholeheartedly recommend Tracy without reservation.”
->  
-> – John Gill, Senior Engineering Manager, BenchPrep
-
-> “Tracy exemplifies the very best software engineering practices and principles.”
->
-> – David Oliver, Senior Engineering Manager, Groupon
-
-> “Tracy has a steady, calm presence that inspires others to listen, brings passionate debates
-> to compromise, and motivates excitable individuals to collaborate. Tracy exudes this quality even in
-> his written communications & thorough documentation - he is clear, succinct, thoughtful and
-> humorous.”
-> 
-> – Sarah Lillian, Data Scientist, Groupon
-
-> “Working with Tracy at BenchPrep has been a blessing... His keen attention to
-> detail allowed for fewer iterations on the feedback loop and feature
-> implementations. ”
-> 
-> – Eddie Frausto, Senior Site Reliability Engineer, BenchPrep
-
-See more at [[LinkedIn.com/in/tracyatteberry](https:://linkedin.com/in/tracyatteberry/)].
-
 ## Experience
 
 ### Senior Software Engineer, BenchPrep
@@ -120,6 +93,33 @@ May 1999 – February 2007
 On the document conversion pipeline team I designed and implemented a PDF
 Export product, a font handling subsystem with OTF parse/subset/write library,
 an emulation layer, and native 3D format support.
+
+## Endorsements
+
+> “Tracy is one of the very best software engineers I have had the pleasure to work with. ... He
+> possesses exceptional technical expertise with fantastic communication, mentoring, and
+> coaching skills to boot… I wholeheartedly recommend Tracy without reservation.”
+>  
+> – John Gill, Senior Engineering Manager, BenchPrep
+
+> “Tracy exemplifies the very best software engineering practices and principles.”
+>
+> – David Oliver, Senior Engineering Manager, Groupon
+
+> “Tracy has a steady, calm presence that inspires others to listen, brings passionate debates
+> to compromise, and motivates excitable individuals to collaborate. Tracy exudes this quality even in
+> his written communications & thorough documentation - he is clear, succinct, thoughtful and
+> humorous.”
+> 
+> – Sarah Lillian, Data Scientist, Groupon
+
+> “Working with Tracy at BenchPrep has been a blessing... His keen attention to
+> detail allowed for fewer iterations on the feedback loop and feature
+> implementations. ”
+> 
+> – Eddie Frausto, Senior Site Reliability Engineer, BenchPrep
+
+See more at [[LinkedIn.com/in/tracyatteberry](https:://linkedin.com/in/tracyatteberry/)].
 
 ## Projects & Achievements
 
