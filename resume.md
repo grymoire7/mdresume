@@ -13,7 +13,7 @@ author:
 - Tracy Atteberry
 subject: 'Subject'
 ---
-###### [[tracyatteberry.com](https://tracyatteberry.com)] . [[linkedin.com/in/tracyatteberry](https:://linkedin.com/in/tracyatteberry/)] [ tracy@tracyatteberry.com] . [ 312 399 6978 ]
+###### [[tracyatteberry.com](https://tracyatteberry.com)] . [[linkedin.com/in/tracyatteberry](https:://linkedin.com/in/tracyatteberry/)] . [ tracy@tracyatteberry.com] . [ 312 399 6978 ]
 
 I'm a polyglot that enjoys solving problems with software. I enjoy working, learning, and
 teaching on a collaborative team. I have a passion for creating quality, extendable code and
@@ -22,18 +22,22 @@ a positive impact is fun. Most recently I enjoyed building AI features, from ide
 implementation to delivery and support, into a best-in-class learning platform to generate
 question content and categories for our customers.
 
+###### [[linkedin.com/in/tracyatteberry](https:://linkedin.com/in/tracyatteberry/)] . [[github.com/grymoire7](https://github.com/grymoire7)]
+
 ## Skills
 
-```programming```
-```AI assisted development```
+```software engineering```
+```full stack development```
+```AI assisted software development```
+```Agile development```
+```refactoring```
+```technical writing```
 ```databases```
 ```containers```
 ```teaching```
 ```mentoring```
 ```linux```
-```project management```
 ```system architecture & design```
-```entrepreneurship```
 
 **Programming**: Ruby, Ruby on Rails, Java, C/C++, Javascript, Vue, Python, Bash, Perl, Go
 **Databases**: Postgres, Redis, MySQL, Sqlite
@@ -45,8 +49,20 @@ question content and categories for our customers.
 > possesses exceptional technical expertise with fantastic communication, mentoring, and
 > coaching skills to boot… I wholeheartedly recommend Tracy without reservation.”
 >  
-> – John Gill, Senior Engineering  
-> Manager, BenchPrep
+> – John Gill, Senior Engineering Manager, BenchPrep
+
+> “Tracy exemplifies the very best software engineering practices and principles.”
+>
+> – David Oliver, Senior Engineering Manager, Groupon
+
+> “Tracy has a steady, calm presence that inspires others to listen, brings passionate debates
+> to compromise, and motivates excitable individuals to collaborate. Tracy exudes this quality even in
+> his written communications & thorough documentation - he is clear, succinct, thoughtful and
+> humorous.”
+> 
+> – Sarah Lillian, Data Scientist, Groupon
+
+See more at [[LinkedIn.com/in/tracyatteberry](https:://linkedin.com/in/tracyatteberry/)].
 
 ## Experience
 
@@ -66,35 +82,44 @@ being a team lead, I also enjoyed leading a Refactoring SIG and giving frequent
 technical talks to Engineering and other groups to help advance our skills and
 knowledge as a company.
 
+**Technologies used:** Ruby on Rails, Vue, Python, Docker, OpenAI, PostgreSQL, Redis, Rspec, Git
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-### Senior Software Engineer, Google
+### Senior Software Engineer, Groupon
 
 October 2017 - July 2020, Chicago, IL
 
 I delivered high quality code as part of a cross-functional team that enabled
 data-driven decisions at Groupon through building tools that run and analyze
-A/B experimentation using Ruby on Rails, Python, PostgreSQL, and AWS.
+A/B experimentation.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+**Technologies used:** Ruby on Rails, Python, PostgreSQL, AWS, Rspec, Git
 
-## Awards & Recognition
+### Oracle – Principal Member Technical Staff
 
-- Patent holder for a system of font generation and rendering
+March 2007 – October 2017
 
-## Projects
+I worked on a document conversion team to design and create a new in-browser
+viewing solution. I worked on a pdf export solution, including an new font
+creation and subsetting subsetting system for embedded fonts. For the last two
+years I worked on very large scale cloud-based knowledge management software.
 
-**[*Personal Blog*](http://tracyatteberry.com)** (2024-present)
+**Technologies used:** C/C++, Java, REST, Agile, Oracle DB
 
-- Authored a series of articles covering a wide variety of topics and tools related to code quality and AI assisted software development.
+
+## Projects & Achievements
+
+**Patent holder** for a system of font generation and rendering
+
+**[*Substack newsletter*](https://aiassistedproductivity.substack.com/)** (2024-present)
+
+- Authored a series of articles for newsletter covering AI assisted software development.
 
 ## Education
 
-### Masters in Applied Mathematics, University of Kansas
-My research involved writing software to solve new computational problems of Stochastic Adaptive Control. Also, Kung Fu Club.
+### MA, Applied Mathematics, University of Kansas
+My research involved writing software to solve new computational problems in Stochastic Adaptive Control. Also, Kung Fu Club.
 
-### BA in Mathematics, minors in CS and Physics, MidAmerica Nazarene University
+### BA, Mathematics, minors in CS and Physics, MidAmerica Nazarene University
 Vice president of student body.
 
 
