@@ -62,6 +62,12 @@ question content and categories for our customers.
 > 
 > – Sarah Lillian, Data Scientist, Groupon
 
+> “Working with Tracy at BenchPrep has been a blessing... His keen attention to
+> detail allowed for fewer iterations on the feedback loop and feature
+> implementations. ”
+> 
+> – Eddie Frausto, Senior Site Reliability Engineer, BenchPrep
+
 See more at [[LinkedIn.com/in/tracyatteberry](https:://linkedin.com/in/tracyatteberry/)].
 
 ## Experience
@@ -82,7 +88,7 @@ giving frequent technical talks to Engineering and other groups to help advance
 our skills and knowledge as a company.
 
 **Technologies used:** Ruby on Rails, Vue, Python, Docker, OpenAI, PostgreSQL, Redis, Rspec, Git
-<p/>
+
 
 ### Senior Software Engineer, Groupon
 
