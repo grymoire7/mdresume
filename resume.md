@@ -128,6 +128,7 @@ See more at [[LinkedIn.com/in/tracyatteberry](https:://linkedin.com/in/tracyatte
 **[*Substack newsletter*](https://aiassistedproductivity.substack.com/)** (2024-present)
 
 - Authored a series of articles for a newsletter covering AI assisted software development.
+- aiassistedproductivity.substack.com
 
 ## Education
 
